@@ -48,9 +48,6 @@ Tetris::Tetris(int rows,int cols,int left,int top,int block_size){
     }
 }
 ```
-
-![image-20240318162418442](D:\BaiduNetdiskDownload\提高编程能力资料\讲义\assets\image-20240318162418442.png)
-
 row代表方块的行数，cols代表方块列数。
 
 #### 4.实现游戏的主体架构
